@@ -1,4 +1,4 @@
-
+//Not my code, provided by MOOC.fi for use in this exercise. 
 
 public class Warehouse {
 
