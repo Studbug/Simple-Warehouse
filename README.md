@@ -3,6 +3,7 @@ Simple warehouse structure used to practice Super and Sub class fundamentals.
 
 
 Main program code:
+
 ProductWarehouseWithHistory juice = new ProductWarehouseWithHistory("Juice", 1000.0, 1000.0);
 
 juice.takeFromWarehouse(11.3);
